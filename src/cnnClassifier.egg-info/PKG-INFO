@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A simple python package for CNN app
+Home-page: https://github.com/muhammed_usman/chicken-disease-classification
+Author: muhammed_usman
+Author-email: uthmanuthaimin01@gmail.com
+Project-URL: Bug Tracker, https://github.com/muhammed_usman/chicken-disease-classification/issues
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# chiken_fecal_class
